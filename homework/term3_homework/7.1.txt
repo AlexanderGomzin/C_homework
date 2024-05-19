@@ -1,0 +1,3 @@
+Выражения категории lvalue: a, l, r, funca(), funcb(a), 
+
+Выражения категории rvalue: 100, a + 1, l + r, std::abs(a), 
